@@ -1,6 +1,8 @@
 # CNC Cut Dish Rack
 A CNC cut over-sink dish rack
 
+
+
 I read [this 99% invisible article](https://99percentinvisible.org/article/finnish-dishes-simple-nordic-design-beats-dishwashers-drying-racks/) about Finnish dish drying cabnets which let you keep your dishes directly over the sink so that instead of draining into a dish rack (which is invariably gross), they drain directly into the sink.
 
 I wanted one, but I live in an appartment and I can't install a cabnet so I made a shelf version. I've had mine for several months now, and I love it.
