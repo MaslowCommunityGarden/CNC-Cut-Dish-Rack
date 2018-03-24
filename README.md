@@ -12,3 +12,8 @@ You can find the open source CAD files here, along with the generated gcode if y
 The original OnShape CAD document is also open source and available free here: 
 
 [The Original OnShape Document](https://cad.onshape.com/documents/2bcb3a22e1654035dd9b8115/w/2dc43ab2830a85c6bcea7f2f/e/50196667e7ab47a0b7f9ac92)
+
+
+The dishrack installed:
+
+![installed](https://raw.githubusercontent.com/MaslowCommunityGarden/CNC-Cut-Dish-Rack/master/dishrack%20installed.jpg)
