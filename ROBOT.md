@@ -1,5 +1,4 @@
 ModerationLevel = communityManaged
 
- Facilitator: barboursmith
+Facilitator: barboursmith
 
-test = True
