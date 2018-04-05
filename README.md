@@ -17,3 +17,7 @@ The original OnShape CAD document is also open source and available free here:
 The dishrack installed:
 
 ![installed](https://raw.githubusercontent.com/MaslowCommunityGarden/CNC-Cut-Dish-Rack/master/dishrack%20installed.jpg)
+
+My frined Mimi liked it and made her own:
+
+![Mimi dish rack](https://raw.githubusercontent.com/MaslowCommunityGarden/CNC-Cut-Dish-Rack/master/Mimi%20Dish%20Rack.jpg)
